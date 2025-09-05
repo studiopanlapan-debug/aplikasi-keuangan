@@ -1,0 +1,5 @@
+{
+  "name": "Personal Finance Dashboard",
+  "description": "A comprehensive web application to track personal finances, inspired by a Google Sheets template. It includes features for monitoring main balances, logging transactions, viewing monthly recaps, setting percentage-based allocations, and visualizing data on a dashboard.",
+  "requestFramePermissions": []
+}
